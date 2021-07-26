@@ -1,4 +1,4 @@
-# GEPS - Genshin Electro Puzzle Solver
+# GEPS - Genshin Electro Puzzle Solver (ROTATING cubes only)
 Helps you solve the electro cube puzzles in Inazuma (Genshin Impact)
 ![Puzzle](https://i.imgur.com/7zRTOsw.png "Puzzle")
 
