@@ -15,3 +15,6 @@ Helps you solve the electro cube puzzles in Inazuma (Genshin Impact)
 
 ## Tutorial video:
 _Coming soon_
+
+## Changelog:
+- Massive performance update + bugfixes
