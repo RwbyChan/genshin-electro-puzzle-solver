@@ -1,6 +1,7 @@
-# GEPS - Genshin Electro Puzzle Solver (ROTATING cubes only)
+# GEPS - Genshin Electro Puzzle Solver
 Helps you solve the electro cube puzzles in Inazuma (Genshin Impact)
 ![Puzzle](https://i.imgur.com/7zRTOsw.png "Puzzle")
+*Need help with the other cube puzzle that doesn't rotate but changes lit up parts? A guide to solving those has been added to the site!*
 
 ## Try it out now:
 [Click here to try](https://geps.rubychan.yt/)
@@ -17,4 +18,6 @@ Helps you solve the electro cube puzzles in Inazuma (Genshin Impact)
 _Coming soon_
 
 ## Changelog:
+- Adding guide for non-rotating cubes
+
 - Massive performance update + bugfixes
